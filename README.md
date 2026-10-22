@@ -64,6 +64,7 @@ psql -d atelier -f sql/queries.sql
 # 4. Построить графики
 pip install matplotlib
 python src/plots.py
+```
 
 ## Список запросов
 
